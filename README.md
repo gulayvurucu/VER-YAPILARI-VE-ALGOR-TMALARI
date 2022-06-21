@@ -1,1 +1,4 @@
-# VER-YAPILARI-VE-ALGOR-TMALARI
+#Veri Yapileri ve Algoritmalari Projeleri
+    -insertionsort
+    -mergesort
+    -binarysearchtree
